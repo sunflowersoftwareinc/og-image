@@ -149,7 +149,7 @@ const imageLightOptions: DropdownOption[] = [
 
 const imageDarkOptions: DropdownOption[] = [
 
-    { text: 'Vercel', value: 'https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-white.svg' },
+    { text: 'Vercel', value: 'https://d273822p0momvo.cloudfront.net/eyJidWNrZXQiOiJ3YXZlZGFzaC13ZWJzaXRlLWltYWdlcyIsImtleSI6ImltYWdlcy9nYW1lL20vZS9tZXRyby1leG9kdXNfX2N1c3RvbWJhY2tkcm9wXzIwMjEtMDMtMDJfMjAwODI5LjM3NjMxODAwMDAuanBnIiwiZWRpdHMiOnsianBlZyI6eyJxdWFsaXR5Ijo5MH0sInJlc2l6ZSI6eyJ3aWR0aCI6MTkyMCwiaGVpZ2h0IjoxMDgwLCJ3aXRob3V0RW5sYXJnZW1lbnQiOmZhbHNlfX19' },
     { text: 'Next.js', value: 'https://assets.vercel.com/image/upload/front/assets/design/nextjs-white-logo.svg' },
     { text: 'Hyper', value: 'https://assets.vercel.com/image/upload/front/assets/design/hyper-bw-logo.svg' },
 ];
