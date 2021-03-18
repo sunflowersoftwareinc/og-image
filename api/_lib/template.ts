@@ -67,6 +67,8 @@ function getCss(theme: string, fontSize: string) {
 
     .logo-wrapper {
         display: flex;
+        border-radius: 30px;
+        overflow: hidden;
         align-items: center;
         align-content: center;
         justify-content: center;
